@@ -1,0 +1,8 @@
+User-agent: *
+Allow: /
+
+# Sitemap
+Sitemap: https://case518-com.github.io/case518/sitemap.xml
+
+# 爬取延遲（避免伺服器負載過高）
+Crawl-delay: 1
